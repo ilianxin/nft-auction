@@ -1,0 +1,15 @@
+{
+  "address": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788",
+  "abi": [
+    "error InvalidInitialization()",
+    "error NotInitializing()",
+    "event Initialized(uint64)",
+    "function admin() view returns (address)",
+    "function auctions(uint256) view returns (address,uint256,uint256,bool,address,uint256,uint256,address,uint256)",
+    "function createAuction(uint256,uint256,address,uint256)",
+    "function initialize()",
+    "function nextAuctionId() view returns (uint256)",
+    "function placeBid(uint256) payable"
+  ],
+  "numDeployments": 2
+}
